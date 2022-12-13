@@ -1,1 +1,1 @@
-# Python_Lesson_2
+# Python-practice-2
